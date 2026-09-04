@@ -1,0 +1,32 @@
+RAG
+
+pip install langchain
+pip install llama-index
+pip install sentence-transformers
+pip install transformers
+pip install accelerate
+
+Vector Database
+
+pip install faiss-cpu
+
+Data Processing
+
+pip install pandas
+pip install numpy
+pip install pypdf
+pip install openpyxl
+
+APIs
+
+pip install fastapi
+pip install uvicorn
+
+Dashboard
+
+pip install streamlit
+pip install plotly
+
+Environment Variables
+
+pip install python-dotenv
