@@ -1,0 +1,252 @@
+[
+  {
+    "incident_id": 1,
+    "tower": "T1",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 2,
+    "tower": "T2",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 3,
+    "tower": "T3",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 4,
+    "tower": "T4",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 5,
+    "tower": "T5",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 6,
+    "tower": "T6",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 7,
+    "tower": "T7",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 8,
+    "tower": "T8",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 9,
+    "tower": "T9",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 10,
+    "tower": "T10",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 11,
+    "tower": "T11",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 12,
+    "tower": "T12",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 13,
+    "tower": "T13",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 14,
+    "tower": "T14",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 15,
+    "tower": "T15",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 16,
+    "tower": "T16",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 17,
+    "tower": "T17",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 18,
+    "tower": "T18",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 19,
+    "tower": "T19",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 20,
+    "tower": "T20",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 21,
+    "tower": "T1",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 22,
+    "tower": "T2",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 23,
+    "tower": "T3",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 24,
+    "tower": "T4",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 25,
+    "tower": "T5",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 26,
+    "tower": "T6",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 27,
+    "tower": "T7",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 28,
+    "tower": "T8",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 29,
+    "tower": "T9",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 30,
+    "tower": "T10",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 31,
+    "tower": "T11",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 32,
+    "tower": "T12",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 33,
+    "tower": "T13",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 34,
+    "tower": "T14",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 35,
+    "tower": "T15",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 36,
+    "tower": "T16",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 37,
+    "tower": "T17",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 38,
+    "tower": "T18",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 39,
+    "tower": "T19",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 40,
+    "tower": "T20",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 41,
+    "tower": "T1",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 42,
+    "tower": "T2",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 43,
+    "tower": "T3",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 44,
+    "tower": "T4",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 45,
+    "tower": "T5",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 46,
+    "tower": "T6",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 47,
+    "tower": "T7",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 48,
+    "tower": "T8",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 49,
+    "tower": "T9",
+    "incident": "Interference"
+  },
+  {
+    "incident_id": 50,
+    "tower": "T10",
+    "incident": "Interference"
+  }
+]

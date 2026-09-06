@@ -1,0 +1,22 @@
+[
+  {
+    "symptoms": [
+      "Low SINR",
+      "High Packet Loss"
+    ],
+    "root_cause": "Interference"
+  },
+  {
+    "symptoms": [
+      "High Latency",
+      "Low Throughput"
+    ],
+    "root_cause": "Congestion"
+  },
+  {
+    "symptoms": [
+      "No Signal"
+    ],
+    "root_cause": "Tower Outage"
+  }
+]

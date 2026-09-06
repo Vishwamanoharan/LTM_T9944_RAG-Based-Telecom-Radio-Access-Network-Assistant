@@ -1,32 +1,97 @@
-RAG
+# =========================
+# Core
+# =========================
+numpy
+pandas
+pyyaml
+python-dotenv
 
-pip install langchain
-pip install llama-index
-pip install sentence-transformers
-pip install transformers
-pip install accelerate
+# =========================
+# Dataset Loading
+# =========================
+datasets
+huggingface_hub
 
-Vector Database
+# =========================
+# PDF Processing
+# =========================
+pypdf
 
-pip install faiss-cpu
+# =========================
+# Embeddings
+# =========================
+sentence-transformers
+transformers
+torch
 
-Data Processing
+# =========================
+# Vector Database
+# =========================
+faiss-cpu
+qdrant-client
 
-pip install pandas
-pip install numpy
-pip install pypdf
-pip install openpyxl
+# =========================
+# RAG Framework
+# =========================
+langchain
+langchain-community
+langchain-core
+llama-index
 
-APIs
+# =========================
+# Re-ranking
+# =========================
+FlagEmbedding
 
-pip install fastapi
-pip install uvicorn
+# =========================
+# LLM Support
+# =========================
+accelerate
+bitsandbytes
 
-Dashboard
+# =========================
+# API Layer
+# =========================
+fastapi
+uvicorn
 
-pip install streamlit
-pip install plotly
+# =========================
+# Dashboard
+# =========================
+streamlit
+plotly
+folium
+streamlit-folium
 
-Environment Variables
+# =========================
+# Simulation
+# =========================
+simpy
 
-pip install python-dotenv
+# =========================
+# Machine Learning
+# =========================
+scikit-learn
+scipy
+
+# =========================
+# Logging
+# =========================
+loguru
+
+# =========================
+# Utilities
+# =========================
+tqdm
+requests
+
+# =========================
+# Testing
+# =========================
+pytest
+
+# =========================
+# Excel Support
+# =========================
+openpyxl
+>>>>>>> 2a78214 (Add ingestion pipeline)
