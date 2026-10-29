@@ -1,1 +1,1 @@
-[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/vishwamanoharan/ltm_t9944_rag-based-telecom-radio-access-network-assistant?utm_source=readme&utm_medium=badge)
+[![Architecture diagram of vishwamanoharan/ltm_t9944_rag-based-telecom-radio-access-network-assistant](https://gitdiagram.com/vishwamanoharan/ltm_t9944_rag-based-telecom-radio-access-network-assistant/diagram.png)](https://gitdiagram.com/vishwamanoharan/ltm_t9944_rag-based-telecom-radio-access-network-assistant?utm_source=readme&utm_medium=picture)
