@@ -1,1 +1,1 @@
-[![Architecture diagram of vishwamanoharan/ltm_t9944_rag-based-telecom-radio-access-network-assistant](https://gitdiagram.com/vishwamanoharan/ltm_t9944_rag-based-telecom-radio-access-network-assistant/diagram.png)](https://gitdiagram.com/vishwamanoharan/ltm_t9944_rag-based-telecom-radio-access-network-assistant?utm_source=readme&utm_medium=picture)
+[![Architecture diagram of langgenius/dify](https://gitdiagram.com/langgenius/dify/diagram.png)](https://gitdiagram.com/langgenius/dify?utm_source=readme&utm_medium=picture)
