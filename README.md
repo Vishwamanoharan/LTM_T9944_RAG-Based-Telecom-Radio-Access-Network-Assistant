@@ -1,1 +1,9 @@
-[![Architecture diagram of vishwamanoharan/t9944_vitv_vishwa_m](https://gitdiagram.com/vishwamanoharan/t9944_vitv_vishwa_m/diagram.png)](https://gitdiagram.com/vishwamanoharan/t9944_vitv_vishwa_m?utm_source=readme&utm_medium=picture)
+## 🏗️ System Architecture
+
+![Telecom RAN AI Assistant Architecture](docs/images/telecom_ran_architecture.png)
+
+## 🎥 Project Demo
+
+[▶ Watch RAG Based Telecom RAN AI Assistant Demo](https://github.com/user-attachments/assets/0e98c0fe-ffb6-40c3-8aeb-297035075bc2)
+
+
