@@ -1,0 +1,1259 @@
+timestamp,tower_id,event_type,severity,description,message,cycle
+2026-09-15 10:21:56.230241,TOWER-001,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:21:56.239119,TOWER-002,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:21:56.239119,TOWER-003,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:21:56.245005,TOWER-004,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:21:56.245005,TOWER-005,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:21:56.254825,TOWER-006,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:21:56.259536,TOWER-007,INTERFERENCE,CRITICAL,Low SINR detected,,
+2026-09-15 10:21:56.259536,TOWER-007,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:21:56.264086,TOWER-008,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:21:56.270388,TOWER-009,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:21:56.270892,TOWER-010,INTERFERENCE,CRITICAL,Low SINR detected,,
+2026-09-15 10:21:56.270892,TOWER-010,HIGH_PACKET_LOSS,CRITICAL,High packet loss detected,,
+2026-09-15 10:52:22,TOWER-001,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-002,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-003,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-004,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:52:22,TOWER-004,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-005,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-006,CONGESTION,HIGH,High PRB utilization indicates possible resource congestion.,,
+2026-09-15 10:52:22,TOWER-006,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-007,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:52:22,TOWER-007,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-008,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-008,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-009,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-010,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:52:22,TOWER-010,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:52:22,TOWER-010,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:54:00,TOWER-001,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-002,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-003,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-003,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:54:00,TOWER-004,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-005,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-006,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-007,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:54:00,TOWER-007,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-008,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-008,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-008,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:54:00,TOWER-009,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-010,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:54:00,TOWER-010,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:14,TOWER-001,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-002,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-003,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-004,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:14,TOWER-004,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-005,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-006,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-007,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:14,TOWER-007,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-008,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-008,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-009,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-010,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-010,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:14,TOWER-001,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-002,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-003,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-004,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:14,TOWER-004,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-005,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-005,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:14,TOWER-006,CONGESTION,HIGH,High PRB utilization indicates possible resource congestion.,,
+2026-09-15 10:55:14,TOWER-006,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-007,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:14,TOWER-007,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-008,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-008,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-008,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:14,TOWER-009,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-010,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:14,TOWER-010,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:14,TOWER-010,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:40,TOWER-001,CONGESTION,HIGH,High PRB utilization indicates possible resource congestion.,,
+2026-09-15 10:55:40,TOWER-001,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-001,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-001,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:40,TOWER-002,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-003,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-004,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:40,TOWER-004,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-005,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-005,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:40,TOWER-006,CONGESTION,HIGH,High PRB utilization indicates possible resource congestion.,,
+2026-09-15 10:55:40,TOWER-006,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-007,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:40,TOWER-007,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-008,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-008,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-008,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:40,TOWER-009,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-010,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:40,TOWER-010,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:40,TOWER-010,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:59,TOWER-001,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-001,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:59,TOWER-002,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-003,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-004,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:59,TOWER-004,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-005,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-005,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:59,TOWER-006,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-007,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:59,TOWER-007,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-008,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-008,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:55:59,TOWER-009,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-010,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:55:59,TOWER-010,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:55:59,TOWER-010,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:56:32,TOWER-001,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-001,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-002,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-002,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-003,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-004,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:56:32,TOWER-004,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-005,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-005,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:56:32,TOWER-006,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-007,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:56:32,TOWER-007,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-008,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-008,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-008,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:56:32,TOWER-009,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-010,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:56:32,TOWER-010,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:56:32,TOWER-010,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:57:07,TOWER-001,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-002,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-002,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-003,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-004,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:57:07,TOWER-004,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-005,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-005,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:57:07,TOWER-006,CONGESTION,HIGH,High PRB utilization indicates possible resource congestion.,,
+2026-09-15 10:57:07,TOWER-006,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-007,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:57:07,TOWER-007,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-008,HIGH_LATENCY,MEDIUM,Latency is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-008,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-008,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15 10:57:07,TOWER-009,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-010,INTERFERENCE,HIGH,Low SINR indicates possible radio interference.,,
+2026-09-15 10:57:07,TOWER-010,PACKET_LOSS,HIGH,Packet loss is above the normal operating threshold.,,
+2026-09-15 10:57:07,TOWER-010,LOW_THROUGHPUT,MEDIUM,Throughput is below the expected operating level.,,
+2026-09-15T11:09:48.354906,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:48.354906,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:48.354906,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:48.354906,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:48.354906,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:48.354906,TOWER-006,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:48.354906,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:48.354906,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:48.354906,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:48.354906,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-006,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:54.214762,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-006,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:09:59.760962,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:05.236631,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:05.236631,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:05.236631,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:05.236631,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:05.236631,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:05.236631,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:10:05.236631,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:05.236631,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:05.236631,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:05.236631,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:10.747809,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:10.747809,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:10.747809,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:10.747809,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:10.747809,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:10.747809,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:10:10.747809,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:10.747809,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:10.747809,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:10.747809,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:16.246118,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:16.246118,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:16.246118,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:16.246118,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:16.246118,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:16.246118,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:10:16.246118,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:16.246118,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:16.246118,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:16.246118,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:21.770183,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:21.770183,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:21.770183,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:21.770183,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:21.770183,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:21.770183,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:10:21.770183,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:21.770183,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:21.770183,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:21.770183,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:27.276735,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:27.276735,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:27.276735,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:27.276735,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:27.276735,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:27.276735,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:10:27.276735,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:27.276735,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:27.276735,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:27.276735,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:32.876210,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:32.876210,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:32.876210,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:32.876210,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:32.876210,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:32.876210,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:10:32.876210,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:32.876210,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:32.876210,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:32.876210,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:33.650382,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:33.650382,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:33.650382,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:33.650382,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:33.650382,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:10:33.650382,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:33.650382,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:33.650382,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:33.650382,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:36.121417,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:36.121417,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:36.121417,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:36.121417,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:36.121417,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:10:36.121417,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:36.121417,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:36.121417,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:10:36.121417,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:36.564626,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:36.564626,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:36.564626,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:36.564626,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:36.564626,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:12:36.564626,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:36.564626,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:36.564626,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:36.564626,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:42.536558,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:42.536558,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:42.536558,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:42.536558,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:42.536558,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:12:42.536558,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:42.536558,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:42.536558,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:42.536558,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:48.562678,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:48.562678,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:48.562678,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:48.562678,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:48.562678,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:12:48.562678,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:48.562678,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:48.562678,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:48.562678,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:54.569743,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:54.569743,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:54.569743,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:54.569743,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:54.569743,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:12:54.569743,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:54.569743,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:54.569743,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:12:54.569743,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:00.568042,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:00.568042,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:00.568042,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:00.568042,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:00.568042,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:00.568042,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:00.568042,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:00.568042,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:00.568042,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:00.568042,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:06.573637,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:06.573637,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:06.573637,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:06.573637,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:06.573637,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:06.573637,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:06.573637,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:06.573637,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:06.573637,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:06.573637,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:12.627117,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:12.627117,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:12.627117,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:12.627117,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:12.627117,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:12.627117,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:12.627117,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:12.627117,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:12.627117,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:12.627117,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:18.683743,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:18.683743,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:18.683743,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:18.683743,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:18.683743,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:18.683743,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:18.683743,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:18.683743,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:18.683743,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:18.683743,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:24.697447,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:24.697447,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:24.697447,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:24.697447,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:24.697447,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:24.697447,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:24.697447,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:24.697447,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:24.697447,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:24.697447,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:30.689636,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:30.689636,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:30.689636,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:30.689636,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:30.689636,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:30.689636,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:13:30.689636,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:30.689636,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:30.689636,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:30.689636,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:36.671862,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:36.671862,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:36.671862,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:36.671862,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:36.671862,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:36.671862,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:13:36.671862,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:36.671862,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:36.671862,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:36.671862,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:42.690727,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:42.690727,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:42.690727,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:42.690727,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:42.690727,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:42.690727,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:13:42.690727,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:42.690727,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:42.690727,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:42.690727,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:49.739853,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:49.739853,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:49.739853,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:49.739853,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:49.739853,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:49.739853,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:13:49.739853,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:49.739853,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:49.739853,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:49.739853,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:57.974654,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:57.974654,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:57.974654,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:13:57.974654,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:57.974654,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:57.974654,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:13:57.974654,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:57.974654,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:57.974654,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:13:57.974654,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:05.958348,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:05.958348,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:05.958348,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:14:05.958348,TOWER-004,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:05.958348,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:05.958348,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:05.958348,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:05.958348,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:05.958348,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:05.958348,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:13.912851,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:13.912851,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:13.912851,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:14:13.912851,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:13.912851,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:13.912851,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:13.912851,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:13.912851,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:13.912851,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:13.912851,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:21.961217,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:21.961217,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:21.961217,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:14:21.961217,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:21.961217,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:21.961217,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:21.961217,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:21.961217,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:21.961217,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:21.961217,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:30.017335,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:30.017335,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:30.017335,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:14:30.017335,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:30.017335,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:30.017335,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:30.017335,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:30.017335,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:30.017335,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:30.017335,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:38.141145,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:38.141145,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:38.141145,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:14:38.141145,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:38.141145,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:38.141145,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:38.141145,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:38.141145,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:38.141145,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:38.141145,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:46.353217,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:46.353217,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:46.353217,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:14:46.353217,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:46.353217,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:46.353217,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:46.353217,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:46.353217,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:46.353217,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:46.353217,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:54.542008,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:54.542008,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:54.542008,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:14:54.542008,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:54.542008,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:54.542008,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:14:54.542008,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:54.542008,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:54.542008,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:14:54.542008,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:02.968000,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:02.968000,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:02.968000,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:15:02.968000,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:15:02.968000,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:02.968000,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:15:02.968000,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:02.968000,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:02.968000,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:02.968000,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:11.239621,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:11.239621,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:11.239621,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:15:11.239621,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:15:11.239621,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:11.239621,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:11.239621,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:11.239621,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:11.239621,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:19.231062,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:19.231062,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:19.231062,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:15:19.231062,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:15:19.231062,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:19.231062,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:19.231062,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:19.231062,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:19.231062,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:26.526004,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:26.526004,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:26.526004,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:15:26.526004,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:15:26.526004,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:26.526004,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:15:26.526004,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:26.526004,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:26.526004,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:26.526004,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:33.179975,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:33.179975,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:33.179975,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:15:33.179975,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:15:33.179975,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:33.179975,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:33.179975,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:33.179975,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:33.179975,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:39.939189,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:39.939189,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:39.939189,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:15:39.939189,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:15:39.939189,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:39.939189,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:39.939189,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:39.939189,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:39.939189,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:46.800139,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:46.800139,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:46.800139,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:15:46.800139,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:15:46.800139,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:46.800139,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:46.800139,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:46.800139,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:15:46.800139,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:33.764921,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:33.764921,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:33.764921,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:28:33.764921,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:28:33.764921,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:33.764921,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:33.764921,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:33.764921,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:33.764921,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:40.142348,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:40.142348,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:40.142348,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:28:40.142348,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:28:40.142348,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:40.142348,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:40.142348,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:40.142348,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:40.142348,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:46.203720,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:46.203720,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:46.203720,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:28:46.203720,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:28:46.203720,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:46.203720,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:46.203720,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:46.203720,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:46.203720,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:52.811574,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:52.811574,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:52.811574,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:28:52.811574,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:28:52.811574,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:52.811574,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:52.811574,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:52.811574,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:52.811574,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:55.413487,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:55.413487,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:55.413487,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:28:55.413487,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:28:55.413487,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:55.413487,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:55.413487,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:55.413487,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:55.413487,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:56.394696,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:56.394696,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:56.394696,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:28:56.394696,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:28:56.394696,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:56.394696,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:56.394696,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:56.394696,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:28:56.394696,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:02.400832,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:02.400832,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:02.400832,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:02.400832,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:29:02.400832,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:02.400832,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:29:02.400832,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:02.400832,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:02.400832,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:02.400832,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:08.489698,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:08.489698,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:08.489698,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:08.489698,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:29:08.489698,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:08.489698,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:29:08.489698,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:08.489698,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:08.489698,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:08.489698,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:09.470531,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:09.470531,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:09.470531,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:09.470531,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:29:09.470531,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:09.470531,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:29:09.470531,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:09.470531,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:09.470531,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:09.470531,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:15.548195,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:15.548195,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:15.548195,TOWER-003,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:29:15.548195,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:29:15.548195,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:15.548195,TOWER-006,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:29:15.548195,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:15.548195,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:15.548195,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:15.548195,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:21.567906,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:21.567906,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:21.567906,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:21.567906,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:29:21.567906,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:21.567906,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:29:21.567906,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:21.567906,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:21.567906,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:21.567906,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:27.527518,TOWER-001,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:27.527518,TOWER-002,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:27.527518,TOWER-003,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:27.527518,TOWER-004,INTERFERENCE,High,,Low SINR indicates radio interference,
+2026-09-15T11:29:27.527518,TOWER-005,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:27.527518,TOWER-006,HIGH_LATENCY,High,,High latency indicates network congestion,
+2026-09-15T11:29:27.527518,TOWER-007,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:27.527518,TOWER-008,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:27.527518,TOWER-009,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:29:27.527518,TOWER-010,PACKET_LOSS,High,,High packet loss detected,
+2026-09-15T11:56:16.114334,TOWER-001,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:16.114334,TOWER-002,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:16.114334,TOWER-003,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:16.114334,TOWER-004,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:16.114334,TOWER-005,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:16.114334,TOWER-006,HIGH_LATENCY,HIGH,,High latency indicates congestion,
+2026-09-15T11:56:16.114334,TOWER-007,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:16.114334,TOWER-008,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:16.114334,TOWER-009,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:16.114334,TOWER-010,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:22.227334,TOWER-001,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:22.227334,TOWER-002,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:22.227334,TOWER-003,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:22.227334,TOWER-004,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:22.227334,TOWER-005,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:22.227334,TOWER-006,HIGH_LATENCY,HIGH,,High latency indicates congestion,
+2026-09-15T11:56:22.227334,TOWER-007,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:22.227334,TOWER-008,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:22.227334,TOWER-009,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:22.227334,TOWER-010,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:27.922499,TOWER-001,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:27.922499,TOWER-002,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:27.922499,TOWER-003,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:27.922499,TOWER-004,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:27.922499,TOWER-005,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:27.922499,TOWER-006,HIGH_LATENCY,HIGH,,High latency indicates congestion,
+2026-09-15T11:56:27.922499,TOWER-007,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:27.922499,TOWER-008,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:27.922499,TOWER-009,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:27.922499,TOWER-010,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:33.524599,TOWER-001,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:33.524599,TOWER-002,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:33.524599,TOWER-003,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:33.524599,TOWER-004,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:33.524599,TOWER-005,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:33.524599,TOWER-006,HIGH_LATENCY,HIGH,,High latency indicates congestion,
+2026-09-15T11:56:33.524599,TOWER-007,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:33.524599,TOWER-008,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:33.524599,TOWER-009,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:33.524599,TOWER-010,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:39.175030,TOWER-001,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:39.175030,TOWER-002,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:39.175030,TOWER-003,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:39.175030,TOWER-004,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:39.175030,TOWER-005,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:39.175030,TOWER-006,HIGH_LATENCY,HIGH,,High latency indicates congestion,
+2026-09-15T11:56:39.175030,TOWER-007,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:39.175030,TOWER-008,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:39.175030,TOWER-009,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:39.175030,TOWER-010,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:41.041987,TOWER-001,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:41.041987,TOWER-002,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:41.041987,TOWER-003,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:41.041987,TOWER-004,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:41.041987,TOWER-005,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:41.041987,TOWER-006,HIGH_LATENCY,HIGH,,High latency indicates congestion,
+2026-09-15T11:56:41.041987,TOWER-007,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:41.041987,TOWER-008,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:41.041987,TOWER-009,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:41.041987,TOWER-010,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:43.218435,TOWER-001,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:43.218435,TOWER-002,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:43.218435,TOWER-003,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:43.218435,TOWER-004,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:43.218435,TOWER-005,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:43.218435,TOWER-006,HIGH_LATENCY,HIGH,,High latency indicates congestion,
+2026-09-15T11:56:43.218435,TOWER-007,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:43.218435,TOWER-008,INTERFERENCE,HIGH,,Low SINR indicates radio interference,
+2026-09-15T11:56:43.218435,TOWER-009,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15T11:56:43.218435,TOWER-010,PACKET_LOSS,HIGH,,High packet loss detected,
+2026-09-15 12:12:49,TOWER-008,POWER_FAILURE,,Possible tower power failure,,
+2026-09-15 12:25:57,TOWER-006,INTERFERENCE,,,,2.0
+2026-09-15 12:26:14,TOWER-008,BACKHAUL_FAILURE,,,,4.0
+2026-09-15 12:26:22,TOWER-006,BACKHAUL_FAILURE,,,,5.0
+2026-09-15 12:26:30,TOWER-004,POWER_FAILURE,,,,6.0
+2026-09-15 12:26:39,TOWER-002,CELL_OUTAGE,,,,7.0
+2026-09-15 12:26:47,TOWER-001,POWER_FAILURE,,,,8.0
+2026-09-15 12:27:04,TOWER-001,HIGH_CPU_LOAD,,,,10.0
+2026-09-15 12:29:03,TOWER-010,INTERFERENCE,,,,12.0
+2026-09-15 12:29:12,TOWER-010,CELL_OUTAGE,,,,13.0
+2026-09-15 12:29:20,TOWER-005,CONGESTION,,,,14.0
+2026-09-15 12:29:45,TOWER-002,CELL_OUTAGE,,,,17.0
+2026-09-15 12:30:02,TOWER-008,CONGESTION,,,,19.0
+2026-09-15 13:49:07,TOWER-008,BACKHAUL_FAILURE,,,,1.0
+2026-09-15 13:49:13,TOWER-004,INTERFERENCE,,,,2.0
+2026-09-15 13:49:21,TOWER-002,CELL_OUTAGE,,,,3.0
+2026-09-15 13:49:32,TOWER-009,INTERFERENCE,,,,5.0
+2026-09-15 13:49:38,TOWER-004,BACKHAUL_FAILURE,,,,6.0
+2026-09-15 13:49:44,TOWER-008,POWER_FAILURE,,,,7.0
+2026-09-15 13:49:50,TOWER-008,INTERFERENCE,,,,8.0
+2026-09-15 13:49:55,TOWER-006,CELL_OUTAGE,,,,9.0
+2026-09-15 13:50:01,TOWER-004,CELL_OUTAGE,,,,10.0
+2026-09-15 13:50:07,TOWER-006,POWER_FAILURE,,,,11.0
+2026-09-15 13:50:13,TOWER-005,INTERFERENCE,,,,12.0
+2026-09-15 13:50:30,TOWER-001,CONGESTION,,,,15.0
+2026-09-15 13:50:36,TOWER-003,HIGH_CPU_LOAD,,,,16.0
+2026-09-15 13:50:47,TOWER-006,BACKHAUL_FAILURE,,,,18.0
+2026-09-15 13:50:53,TOWER-010,BACKHAUL_FAILURE,,,,19.0
+2026-09-15 13:51:05,TOWER-006,CELL_OUTAGE,,,,21.0
+2026-09-15 13:51:10,TOWER-006,POWER_FAILURE,,,,22.0
+2026-09-15 13:51:22,TOWER-005,HIGH_CPU_LOAD,,,,24.0
+2026-09-15 13:51:28,TOWER-008,BACKHAUL_FAILURE,,,,25.0
+2026-09-15 13:51:39,TOWER-006,BACKHAUL_FAILURE,,,,27.0
+2026-09-15 13:51:45,TOWER-002,POWER_FAILURE,,,,28.0
+2026-09-15 13:51:51,TOWER-002,CELL_OUTAGE,,,,29.0
+2026-09-15 13:52:08,TOWER-005,CELL_OUTAGE,,,,32.0
+2026-09-15 13:52:25,TOWER-004,INTERFERENCE,,,,35.0
+2026-09-15 13:52:31,TOWER-007,INTERFERENCE,,,,36.0
+2026-09-15 13:52:36,TOWER-008,POWER_FAILURE,,,,37.0
+2026-09-15 13:52:42,TOWER-010,CONGESTION,,,,38.0
+2026-09-15 13:52:54,TOWER-005,BACKHAUL_FAILURE,,,,40.0
+2026-09-15 13:53:00,TOWER-004,POWER_FAILURE,,,,41.0
+2026-09-15 13:53:05,TOWER-006,POWER_FAILURE,,,,42.0
+2026-09-15 13:53:11,TOWER-003,BACKHAUL_FAILURE,,,,43.0
+2026-09-15 13:53:17,TOWER-006,POWER_FAILURE,,,,44.0
+2026-09-15 13:53:22,TOWER-007,POWER_FAILURE,,,,45.0
+2026-09-15 13:53:28,TOWER-004,HIGH_CPU_LOAD,,,,46.0
+2026-09-15 13:53:39,TOWER-006,POWER_FAILURE,,,,48.0
+2026-09-15 13:53:45,TOWER-005,HIGH_CPU_LOAD,,,,49.0
+2026-09-15 13:53:51,TOWER-002,HIGH_CPU_LOAD,,,,50.0
+2026-09-15 13:54:02,TOWER-008,CELL_OUTAGE,,,,52.0
+2026-09-15 13:54:08,TOWER-009,INTERFERENCE,,,,53.0
+2026-09-15 13:54:14,TOWER-010,CELL_OUTAGE,,,,54.0
+2026-09-15 13:54:19,TOWER-009,CELL_OUTAGE,,,,55.0
+2026-09-15 13:54:25,TOWER-005,CELL_OUTAGE,,,,56.0
+2026-09-15 13:54:31,TOWER-006,CONGESTION,,,,57.0
+2026-09-15 13:54:42,TOWER-010,BACKHAUL_FAILURE,,,,59.0
+2026-09-15 13:54:48,TOWER-002,CONGESTION,,,,60.0
+2026-09-15 13:54:54,TOWER-007,HIGH_CPU_LOAD,,,,61.0
+2026-09-15 13:55:05,TOWER-003,POWER_FAILURE,,,,63.0
+2026-09-15 13:55:11,TOWER-010,POWER_FAILURE,,,,64.0
+2026-09-15 13:55:16,TOWER-005,CELL_OUTAGE,,,,65.0
+2026-09-15 13:55:22,TOWER-001,HIGH_CPU_LOAD,,,,66.0
+2026-09-15 13:55:28,TOWER-006,CELL_OUTAGE,,,,67.0
+2026-09-15 13:55:34,TOWER-004,BACKHAUL_FAILURE,,,,68.0
+2026-09-15 13:55:39,TOWER-003,INTERFERENCE,,,,69.0
+2026-09-15 13:55:45,TOWER-004,POWER_FAILURE,,,,70.0
+2026-09-15 13:55:51,TOWER-007,BACKHAUL_FAILURE,,,,71.0
+2026-09-15 13:56:02,TOWER-007,BACKHAUL_FAILURE,,,,73.0
+2026-09-15 13:56:13,TOWER-001,CELL_OUTAGE,,,,75.0
+2026-09-15 13:56:19,TOWER-001,CELL_OUTAGE,,,,76.0
+2026-09-15 13:56:30,TOWER-003,HIGH_CPU_LOAD,,,,78.0
+2026-09-15 13:56:36,TOWER-009,POWER_FAILURE,,,,79.0
+2026-09-15 13:56:47,TOWER-002,HIGH_CPU_LOAD,,,,81.0
+2026-09-15 13:56:53,TOWER-003,HIGH_CPU_LOAD,,,,82.0
+2026-09-15 13:56:59,TOWER-009,HIGH_CPU_LOAD,,,,83.0
+2026-09-15 13:57:05,TOWER-001,BACKHAUL_FAILURE,,,,84.0
+2026-09-15 13:57:10,TOWER-007,BACKHAUL_FAILURE,,,,85.0
+2026-09-15 13:57:16,TOWER-007,HIGH_CPU_LOAD,,,,86.0
+2026-09-15 13:57:22,TOWER-002,CELL_OUTAGE,,,,87.0
+2026-09-15 13:57:33,TOWER-001,BACKHAUL_FAILURE,,,,89.0
+2026-09-15 13:57:44,TOWER-002,CELL_OUTAGE,,,,91.0
+2026-09-15 13:57:50,TOWER-002,BACKHAUL_FAILURE,,,,92.0
+2026-09-15 13:58:02,TOWER-005,INTERFERENCE,,,,94.0
+2026-09-15 13:58:13,TOWER-006,CELL_OUTAGE,,,,96.0
+2026-09-15 13:58:19,TOWER-003,CELL_OUTAGE,,,,97.0
+2026-09-15 13:58:30,TOWER-009,HIGH_CPU_LOAD,,,,99.0
+2026-09-15 13:58:36,TOWER-006,HIGH_CPU_LOAD,,,,100.0
+2026-09-15 13:58:41,TOWER-001,BACKHAUL_FAILURE,,,,101.0
+2026-09-15 13:59:10,TOWER-006,CONGESTION,,,,106.0
+2026-09-15 13:59:15,TOWER-006,CELL_OUTAGE,,,,107.0
+2026-09-15 13:59:27,TOWER-001,INTERFERENCE,,,,109.0
+2026-09-15 13:59:38,TOWER-004,HIGH_CPU_LOAD,,,,111.0
+2026-09-15 13:59:44,TOWER-005,HIGH_CPU_LOAD,,,,112.0
+2026-09-15 13:59:50,TOWER-010,CELL_OUTAGE,,,,113.0
+2026-09-15 13:59:55,TOWER-006,CELL_OUTAGE,,,,114.0
+2026-09-15 14:00:01,TOWER-009,HIGH_CPU_LOAD,,,,115.0
+2026-09-15 14:00:07,TOWER-002,BACKHAUL_FAILURE,,,,116.0
+2026-09-15 14:00:29,TOWER-003,CELL_OUTAGE,,,,120.0
+2026-09-15 14:00:46,TOWER-009,POWER_FAILURE,,,,123.0
+2026-09-15 14:01:03,TOWER-001,POWER_FAILURE,,,,126.0
+2026-09-15 14:01:09,TOWER-009,BACKHAUL_FAILURE,,,,127.0
+2026-09-15 14:01:15,TOWER-002,INTERFERENCE,,,,128.0
+2026-09-15 14:01:26,TOWER-010,CELL_OUTAGE,,,,130.0
+2026-09-15 14:01:32,TOWER-009,INTERFERENCE,,,,131.0
+2026-09-15 14:01:49,TOWER-003,INTERFERENCE,,,,134.0
+2026-09-15 14:01:55,TOWER-009,INTERFERENCE,,,,135.0
+2026-09-15 14:02:00,TOWER-004,BACKHAUL_FAILURE,,,,136.0
+2026-09-15 14:02:06,TOWER-007,HIGH_CPU_LOAD,,,,137.0
+2026-09-15 14:02:23,TOWER-004,CELL_OUTAGE,,,,140.0
+2026-09-15 14:02:29,TOWER-001,CONGESTION,,,,141.0
+2026-09-15 14:02:40,TOWER-004,INTERFERENCE,,,,143.0
+2026-09-15 14:03:08,TOWER-009,POWER_FAILURE,,,,148.0
+2026-09-15 14:03:19,TOWER-003,HIGH_CPU_LOAD,,,,150.0
+2026-09-15 14:03:25,TOWER-007,POWER_FAILURE,,,,151.0
+2026-09-15 14:03:48,TOWER-004,POWER_FAILURE,,,,155.0
+2026-09-15 14:03:53,TOWER-001,CONGESTION,,,,156.0
+2026-09-15 14:03:59,TOWER-009,POWER_FAILURE,,,,157.0
+2026-09-15 14:04:05,TOWER-008,INTERFERENCE,,,,158.0
+2026-09-15 14:04:27,TOWER-004,HIGH_CPU_LOAD,,,,162.0
+2026-09-15 14:04:33,TOWER-005,BACKHAUL_FAILURE,,,,163.0
+2026-09-15 14:04:44,TOWER-005,CELL_OUTAGE,,,,165.0
+2026-09-15 14:04:50,TOWER-004,CELL_OUTAGE,,,,166.0
+2026-09-15 14:04:56,TOWER-003,CELL_OUTAGE,,,,167.0
+2026-09-15 14:05:02,TOWER-003,BACKHAUL_FAILURE,,,,168.0
+2026-09-15 14:05:07,TOWER-003,CONGESTION,,,,169.0
+2026-09-15 14:05:13,TOWER-007,BACKHAUL_FAILURE,,,,170.0
+2026-09-15 14:05:30,TOWER-006,POWER_FAILURE,,,,173.0
+2026-09-15 14:05:36,TOWER-009,CONGESTION,,,,174.0
+2026-09-15 14:05:47,TOWER-001,BACKHAUL_FAILURE,,,,176.0
+2026-09-15 14:05:59,TOWER-003,POWER_FAILURE,,,,178.0
+2026-09-15 14:06:16,TOWER-001,POWER_FAILURE,,,,181.0
+2026-09-15 14:06:22,TOWER-009,POWER_FAILURE,,,,182.0
+2026-09-15 14:06:33,TOWER-009,CELL_OUTAGE,,,,184.0
+2026-09-15 14:06:45,TOWER-004,CONGESTION,,,,186.0
+2026-09-15 14:06:50,TOWER-010,CELL_OUTAGE,,,,187.0
+2026-09-15 14:06:56,TOWER-008,CONGESTION,,,,188.0
+2026-09-15 14:07:07,TOWER-009,POWER_FAILURE,,,,190.0
+2026-09-15 14:07:19,TOWER-001,CONGESTION,,,,192.0
+2026-09-15 14:07:25,TOWER-007,CONGESTION,,,,193.0
+2026-09-15 14:07:31,TOWER-003,CONGESTION,,,,194.0
+2026-09-15 14:07:36,TOWER-001,HIGH_CPU_LOAD,,,,195.0
+2026-09-15 14:07:59,TOWER-004,INTERFERENCE,,,,199.0
+2026-09-15 14:08:05,TOWER-010,INTERFERENCE,,,,200.0
+2026-09-15 14:08:16,TOWER-006,POWER_FAILURE,,,,202.0
+2026-09-15 14:08:22,TOWER-001,POWER_FAILURE,,,,203.0
+2026-09-15 14:08:28,TOWER-004,HIGH_CPU_LOAD,,,,204.0
+2026-09-15 14:08:34,TOWER-004,POWER_FAILURE,,,,205.0
+2026-09-15 14:08:40,TOWER-006,CONGESTION,,,,206.0
+2026-09-15 14:08:57,TOWER-001,POWER_FAILURE,,,,209.0
+2026-09-15 14:09:08,TOWER-007,BACKHAUL_FAILURE,,,,211.0
+2026-09-15 14:09:20,TOWER-007,POWER_FAILURE,,,,213.0
+2026-09-15 14:09:26,TOWER-004,POWER_FAILURE,,,,214.0
+2026-09-15 14:09:32,TOWER-009,POWER_FAILURE,,,,215.0
+2026-09-15 14:09:55,TOWER-003,INTERFERENCE,,,,219.0
+2026-09-15 14:10:23,TOWER-006,CELL_OUTAGE,,,,224.0
+2026-09-15 14:10:34,TOWER-007,HIGH_CPU_LOAD,,,,226.0
+2026-09-15 14:10:40,TOWER-006,BACKHAUL_FAILURE,,,,227.0
+2026-09-15 14:10:46,TOWER-005,BACKHAUL_FAILURE,,,,228.0
+2026-09-15 14:10:57,TOWER-004,INTERFERENCE,,,,230.0
+2026-09-15 14:11:03,TOWER-007,POWER_FAILURE,,,,231.0
+2026-09-15 14:11:09,TOWER-010,HIGH_CPU_LOAD,,,,232.0
+2026-09-15 14:11:15,TOWER-010,BACKHAUL_FAILURE,,,,233.0
+2026-09-15 14:11:26,TOWER-002,POWER_FAILURE,,,,235.0
+2026-09-15 14:11:32,TOWER-003,INTERFERENCE,,,,236.0
+2026-09-15 14:11:38,TOWER-003,CELL_OUTAGE,,,,237.0
+2026-09-15 14:11:43,TOWER-003,BACKHAUL_FAILURE,,,,238.0
+2026-09-15 14:11:55,TOWER-010,BACKHAUL_FAILURE,,,,240.0
+2026-09-15 14:12:00,TOWER-002,CONGESTION,,,,241.0
+2026-09-15 14:12:06,TOWER-002,BACKHAUL_FAILURE,,,,242.0
+2026-09-15 14:12:12,TOWER-003,INTERFERENCE,,,,243.0
+2026-09-15 14:12:18,TOWER-010,HIGH_CPU_LOAD,,,,244.0
+2026-09-15 14:12:23,TOWER-004,CONGESTION,,,,245.0
+2026-09-15 14:12:29,TOWER-007,CONGESTION,,,,246.0
+2026-09-15 14:12:40,TOWER-007,INTERFERENCE,,,,248.0
+2026-09-15 14:13:03,TOWER-009,INTERFERENCE,,,,252.0
+2026-09-15 14:13:14,TOWER-002,INTERFERENCE,,,,254.0
+2026-09-15 14:13:20,TOWER-008,INTERFERENCE,,,,255.0
+2026-09-15 14:13:37,TOWER-004,INTERFERENCE,,,,258.0
+2026-09-15 14:13:48,TOWER-009,HIGH_CPU_LOAD,,,,260.0
+2026-09-15 14:13:54,TOWER-007,INTERFERENCE,,,,261.0
+2026-09-15 14:14:00,TOWER-003,HIGH_CPU_LOAD,,,,262.0
+2026-09-15 14:14:05,TOWER-001,INTERFERENCE,,,,263.0
+2026-09-15 14:14:11,TOWER-004,INTERFERENCE,,,,264.0
+2026-09-15 14:14:22,TOWER-005,BACKHAUL_FAILURE,,,,266.0
+2026-09-15 14:14:28,TOWER-005,POWER_FAILURE,,,,267.0
+2026-09-15 14:14:45,TOWER-002,POWER_FAILURE,,,,270.0
+2026-09-15 14:14:51,TOWER-009,INTERFERENCE,,,,271.0
+2026-09-15 14:15:08,TOWER-008,CONGESTION,,,,274.0
+2026-09-15 14:15:19,TOWER-009,HIGH_CPU_LOAD,,,,276.0
+2026-09-15 14:15:25,TOWER-003,CONGESTION,,,,277.0
+2026-09-15 14:15:31,TOWER-009,INTERFERENCE,,,,278.0
+2026-09-15 14:15:36,TOWER-009,INTERFERENCE,,,,279.0
+2026-09-15 14:15:48,TOWER-009,POWER_FAILURE,,,,281.0
+2026-09-15 14:15:59,TOWER-009,HIGH_CPU_LOAD,,,,283.0
+2026-09-15 14:16:05,TOWER-005,HIGH_CPU_LOAD,,,,284.0
+2026-09-15 14:16:16,TOWER-001,HIGH_CPU_LOAD,,,,286.0
+2026-09-15 14:16:22,TOWER-008,POWER_FAILURE,,,,287.0
+2026-09-15 14:16:28,TOWER-001,INTERFERENCE,,,,288.0
+2026-09-15 14:16:33,TOWER-001,CONGESTION,,,,289.0
+2026-09-15 14:17:42,TOWER-010,CELL_OUTAGE,,,,1.0
+2026-09-15 14:17:50,TOWER-007,BACKHAUL_FAILURE,,,,2.0
+2026-09-15 14:17:59,TOWER-002,BACKHAUL_FAILURE,,,,3.0
+2026-09-15 14:18:07,TOWER-005,HIGH_CPU_LOAD,,,,4.0
+2026-09-15 14:18:16,TOWER-006,POWER_FAILURE,,,,5.0
+2026-09-15 14:18:25,TOWER-002,HIGH_CPU_LOAD,,,,6.0
+2026-09-15 14:18:33,TOWER-001,INTERFERENCE,,,,7.0
+2026-09-15 14:18:42,TOWER-006,INTERFERENCE,,,,8.0
+2026-09-15 14:18:51,TOWER-003,CONGESTION,,,,9.0
+2026-09-15 14:21:26,TOWER-004,BACKHAUL_FAILURE,,,,10.0
+2026-09-15 14:21:35,TOWER-010,CONGESTION,,,,11.0
+2026-09-15 14:21:44,TOWER-009,CONGESTION,,,,12.0
+2026-09-15 14:21:52,TOWER-002,BACKHAUL_FAILURE,,,,13.0
+2026-09-15 14:22:10,TOWER-002,BACKHAUL_FAILURE,,,,15.0
+2026-09-15 14:22:18,TOWER-009,HIGH_CPU_LOAD,,,,16.0
+2026-09-15 14:22:27,TOWER-008,INTERFERENCE,,,,17.0
+2026-09-15 14:22:45,TOWER-008,CELL_OUTAGE,,,,19.0
+2026-09-15 14:23:02,TOWER-001,CELL_OUTAGE,,,,21.0
+2026-09-15 14:23:36,TOWER-010,INTERFERENCE,,,,25.0
+2026-09-15 14:24:11,TOWER-005,BACKHAUL_FAILURE,,,,29.0
+2026-09-15 14:24:20,TOWER-007,INTERFERENCE,,,,30.0
+2026-09-15 14:24:28,TOWER-010,POWER_FAILURE,,,,31.0
+2026-09-15 14:24:46,TOWER-001,HIGH_CPU_LOAD,,,,33.0
+2026-09-15 14:25:20,TOWER-007,INTERFERENCE,,,,37.0
+2026-09-15 14:25:46,TOWER-006,INTERFERENCE,,,,40.0
+2026-09-15 14:26:04,TOWER-002,HIGH_CPU_LOAD,,,,42.0
+2026-09-15 14:26:12,TOWER-005,CONGESTION,,,,43.0
+2026-09-15 14:26:21,TOWER-002,CONGESTION,,,,44.0
+2026-09-15 14:26:30,TOWER-008,CONGESTION,,,,45.0
+2026-09-15 14:27:13,TOWER-002,POWER_FAILURE,,,,50.0
+2026-09-15 14:27:30,TOWER-002,INTERFERENCE,,,,52.0
+2026-09-15 14:27:47,TOWER-005,INTERFERENCE,,,,54.0
+2026-09-15 14:28:22,TOWER-010,INTERFERENCE,,,,58.0
+2026-09-15 14:28:31,TOWER-001,POWER_FAILURE,,,,59.0
+2026-09-15 14:28:40,TOWER-009,CELL_OUTAGE,,,,60.0
+2026-09-15 14:28:48,TOWER-005,INTERFERENCE,,,,61.0
+2026-09-15 14:28:57,TOWER-004,CONGESTION,,,,62.0
+2026-09-15 14:29:06,TOWER-001,CELL_OUTAGE,,,,63.0
+2026-09-15 14:29:23,TOWER-002,CONGESTION,,,,65.0
+2026-09-15 14:29:40,TOWER-008,HIGH_CPU_LOAD,,,,67.0
+2026-09-15 14:29:49,TOWER-006,CELL_OUTAGE,,,,68.0
+2026-09-15 14:29:58,TOWER-002,HIGH_CPU_LOAD,,,,69.0
+2026-09-15 14:30:07,TOWER-007,BACKHAUL_FAILURE,,,,70.0
+2026-09-15 14:30:16,TOWER-003,BACKHAUL_FAILURE,,,,71.0
+2026-09-15 14:30:24,TOWER-007,HIGH_CPU_LOAD,,,,72.0
+2026-09-15 14:30:33,TOWER-001,INTERFERENCE,,,,73.0
+2026-09-15 14:30:51,TOWER-007,BACKHAUL_FAILURE,,,,75.0
+2026-09-15 14:31:36,TOWER-007,INTERFERENCE,,,,78.0
+2026-09-15 14:32:02,TOWER-010,BACKHAUL_FAILURE,,,,81.0
+2026-09-15 14:32:20,TOWER-010,HIGH_CPU_LOAD,,,,83.0
+2026-09-15 14:32:46,TOWER-005,CONGESTION,,,,86.0
+2026-09-15 14:33:03,TOWER-001,INTERFERENCE,,,,88.0
+2026-09-15 14:33:20,TOWER-009,POWER_FAILURE,,,,90.0
+2026-09-15 14:33:29,TOWER-010,POWER_FAILURE,,,,91.0
+2026-09-15 14:33:46,TOWER-006,BACKHAUL_FAILURE,,,,93.0
+2026-09-15 14:33:55,TOWER-001,CELL_OUTAGE,,,,94.0
+2026-09-15 14:34:03,TOWER-001,POWER_FAILURE,,,,95.0
+2026-09-15 14:34:12,TOWER-006,POWER_FAILURE,,,,96.0
+2026-09-15 14:34:21,TOWER-005,CELL_OUTAGE,,,,97.0
+2026-09-15 14:34:38,TOWER-004,POWER_FAILURE,,,,99.0
+2026-09-15 14:34:47,TOWER-005,CELL_OUTAGE,,,,100.0
+2026-09-15 14:34:55,TOWER-005,HIGH_CPU_LOAD,,,,101.0
+2026-09-15 14:35:04,TOWER-006,INTERFERENCE,,,,102.0
+2026-09-15 14:35:21,TOWER-001,BACKHAUL_FAILURE,,,,104.0
+2026-09-15 14:35:30,TOWER-007,CELL_OUTAGE,,,,105.0
+2026-09-15 14:35:56,TOWER-007,CONGESTION,,,,108.0
+2026-09-15 14:36:05,TOWER-001,CONGESTION,,,,109.0
+2026-09-15 14:36:22,TOWER-001,HIGH_CPU_LOAD,,,,111.0
+2026-09-15 14:36:31,TOWER-008,BACKHAUL_FAILURE,,,,112.0
+2026-09-15 14:36:39,TOWER-005,POWER_FAILURE,,,,113.0
+2026-09-15 14:36:48,TOWER-006,CELL_OUTAGE,,,,114.0
+2026-09-15 14:37:06,TOWER-001,CELL_OUTAGE,,,,116.0
+2026-09-15 14:37:32,TOWER-005,POWER_FAILURE,,,,119.0
+2026-09-15 14:37:40,TOWER-008,INTERFERENCE,,,,120.0
+2026-09-15 14:37:58,TOWER-007,CELL_OUTAGE,,,,122.0
+2026-09-15 14:38:32,TOWER-005,BACKHAUL_FAILURE,,,,126.0
+2026-09-15 14:38:41,TOWER-005,INTERFERENCE,,,,127.0
+2026-09-15 14:39:07,TOWER-004,INTERFERENCE,,,,130.0
+2026-09-15 14:39:50,TOWER-006,CELL_OUTAGE,,,,135.0
+2026-09-15 14:40:08,TOWER-004,CELL_OUTAGE,,,,137.0
+2026-09-15 14:40:16,TOWER-005,HIGH_CPU_LOAD,,,,138.0
+2026-09-15 14:40:34,TOWER-001,CONGESTION,,,,140.0
+2026-09-15 14:40:51,TOWER-003,BACKHAUL_FAILURE,,,,142.0
+2026-09-15 14:41:00,TOWER-009,BACKHAUL_FAILURE,,,,143.0
+2026-09-15 14:41:09,TOWER-006,CONGESTION,,,,144.0
+2026-09-15 14:41:17,TOWER-010,BACKHAUL_FAILURE,,,,145.0
+2026-09-15 14:41:26,TOWER-009,INTERFERENCE,,,,146.0
+2026-09-15 14:41:43,TOWER-003,CONGESTION,,,,148.0
+2026-09-15 14:42:01,TOWER-009,HIGH_CPU_LOAD,,,,150.0
+2026-09-15 14:42:10,TOWER-004,CONGESTION,,,,151.0
+2026-09-15 14:42:27,TOWER-006,POWER_FAILURE,,,,153.0
+2026-09-15 14:42:36,TOWER-007,CELL_OUTAGE,,,,154.0
+2026-09-15 14:42:52,TOWER-002,POWER_FAILURE,,,,155.0
+2026-09-15 14:43:01,TOWER-005,CELL_OUTAGE,,,,156.0
+2026-09-15 14:43:09,TOWER-007,HIGH_CPU_LOAD,,,,157.0
+2026-09-15 14:43:18,TOWER-006,BACKHAUL_FAILURE,,,,158.0
+2026-09-15 14:43:35,TOWER-005,CONGESTION,,,,160.0
+2026-09-15 14:43:53,TOWER-003,INTERFERENCE,,,,162.0
+2026-09-15 14:44:01,TOWER-004,CELL_OUTAGE,,,,163.0
+2026-09-15 14:44:10,TOWER-007,HIGH_CPU_LOAD,,,,164.0
+2026-09-15 14:44:36,TOWER-001,BACKHAUL_FAILURE,,,,167.0
+2026-09-15 14:45:02,TOWER-005,HIGH_CPU_LOAD,,,,170.0
+2026-09-15 14:45:11,TOWER-002,POWER_FAILURE,,,,171.0
+2026-09-15 14:45:37,TOWER-004,CONGESTION,,,,174.0
+2026-09-15 14:45:45,TOWER-007,HIGH_CPU_LOAD,,,,175.0
+2026-09-15 14:45:54,TOWER-008,INTERFERENCE,,,,176.0
+2026-09-15 14:46:12,TOWER-010,INTERFERENCE,,,,178.0
+2026-09-15 14:46:20,TOWER-003,CONGESTION,,,,179.0
+2026-09-15 14:46:29,TOWER-007,HIGH_CPU_LOAD,,,,180.0
+2026-09-15 14:46:38,TOWER-001,CELL_OUTAGE,,,,181.0
+2026-09-15 14:46:47,TOWER-004,POWER_FAILURE,,,,182.0
+2026-09-15 14:47:04,TOWER-009,INTERFERENCE,,,,184.0
+2026-09-15 14:47:13,TOWER-004,INTERFERENCE,,,,185.0
+2026-09-15 14:47:21,TOWER-003,HIGH_CPU_LOAD,,,,186.0
+2026-09-15 14:47:30,TOWER-005,POWER_FAILURE,,,,187.0
+2026-09-15 14:47:39,TOWER-006,POWER_FAILURE,,,,188.0
+2026-09-15 14:47:47,TOWER-004,INTERFERENCE,,,,189.0
+2026-09-15 14:48:05,TOWER-007,BACKHAUL_FAILURE,,,,191.0
+2026-09-15 14:48:13,TOWER-009,HIGH_CPU_LOAD,,,,192.0
+2026-09-15 14:48:39,TOWER-005,HIGH_CPU_LOAD,,,,195.0
+2026-09-15 14:48:48,TOWER-009,POWER_FAILURE,,,,196.0
+2026-09-15 14:49:23,TOWER-005,CELL_OUTAGE,,,,200.0
+2026-09-15 14:49:31,TOWER-005,CONGESTION,,,,201.0
+2026-09-15 14:49:49,TOWER-009,CONGESTION,,,,203.0
+2026-09-15 14:50:06,TOWER-002,BACKHAUL_FAILURE,,,,205.0
+2026-09-15 14:50:15,TOWER-003,HIGH_CPU_LOAD,,,,206.0
+2026-09-15 14:50:41,TOWER-009,INTERFERENCE,,,,209.0
+2026-09-15 14:51:07,TOWER-003,INTERFERENCE,,,,212.0
+2026-09-15 14:51:24,TOWER-003,BACKHAUL_FAILURE,,,,214.0
+2026-09-15 14:51:50,TOWER-010,CELL_OUTAGE,,,,217.0
+2026-09-15 14:51:59,TOWER-001,POWER_FAILURE,,,,218.0
+2026-09-15 14:52:08,TOWER-009,BACKHAUL_FAILURE,,,,219.0
+2026-09-15 14:52:25,TOWER-009,POWER_FAILURE,,,,221.0
+2026-09-15 14:52:43,TOWER-004,CONGESTION,,,,223.0
+2026-09-15 14:53:00,TOWER-010,CELL_OUTAGE,,,,225.0
+2026-09-15 14:53:09,TOWER-010,INTERFERENCE,,,,226.0
+2026-09-15 14:53:18,TOWER-006,INTERFERENCE,,,,227.0
+2026-09-15 14:53:27,TOWER-008,CELL_OUTAGE,,,,228.0
+2026-09-15 14:53:36,TOWER-007,CELL_OUTAGE,,,,229.0
+2026-09-15 14:53:44,TOWER-008,INTERFERENCE,,,,230.0
+2026-09-15 14:54:02,TOWER-001,INTERFERENCE,,,,232.0
+2026-09-15 14:54:28,TOWER-005,BACKHAUL_FAILURE,,,,235.0
+2026-09-15 14:54:46,TOWER-007,CONGESTION,,,,237.0
+2026-09-15 14:55:03,TOWER-010,POWER_FAILURE,,,,239.0
+2026-09-15 14:55:12,TOWER-004,CELL_OUTAGE,,,,240.0
+2026-09-15 14:55:20,TOWER-002,CELL_OUTAGE,,,,241.0
+2026-09-15 14:55:29,TOWER-006,INTERFERENCE,,,,242.0
+2026-09-15 14:55:37,TOWER-009,INTERFERENCE,,,,243.0
+2026-09-15 14:55:54,TOWER-007,INTERFERENCE,,,,245.0
+2026-09-15 14:56:02,TOWER-001,INTERFERENCE,,,,246.0
+2026-09-15 19:20:17,TOWER-006,CELL_OUTAGE,,,,3.0
+2026-09-15 19:20:26,TOWER-003,CONGESTION,,,,4.0
+2026-09-15 19:20:35,TOWER-003,BACKHAUL_FAILURE,,,,5.0
+2026-09-15 19:20:44,TOWER-003,HIGH_CPU_LOAD,,,,6.0
+2026-09-15 19:21:01,TOWER-004,CONGESTION,,,,8.0
+2026-09-15 19:21:27,TOWER-007,POWER_FAILURE,,,,10.0
+2026-09-15 19:21:43,TOWER-005,HIGH_CPU_LOAD,,,,11.0
+2026-09-15 19:21:59,TOWER-009,CELL_OUTAGE,,,,12.0
+2026-09-15 19:24:27,TOWER-006,CELL_OUTAGE,,,,13.0
+2026-09-17 13:46:05,TOWER-003,CONGESTION,,,,1.0
+2026-09-17 13:46:22,TOWER-006,CELL_OUTAGE,,,,3.0
+2026-09-17 13:46:39,TOWER-007,HIGH_CPU_LOAD,,,,5.0
+2026-09-17 13:46:48,TOWER-010,BACKHAUL_FAILURE,,,,6.0
+2026-09-17 13:47:51,TOWER-001,POWER_FAILURE,,,,10.0
+2026-10-01 10:20:25,TOWER-010,CELL_OUTAGE,,,,1.0
+2026-10-01 10:21:03,TOWER-003,BACKHAUL_FAILURE,,,,4.0
+2026-10-01 10:23:27,TOWER-005,INTERFERENCE,,,,5.0
+2026-10-01 10:23:48,TOWER-007,POWER_FAILURE,,,,6.0
+2026-10-01 10:25:01,TOWER-009,BACKHAUL_FAILURE,,,,9.0
+2026-10-01 10:26:02,TOWER-010,BACKHAUL_FAILURE,,,,11.0
+2026-10-01 10:27:33,TOWER-004,INTERFERENCE,,,,14.0
+2026-10-05 09:52:58,TOWER-007,CONGESTION,,,,1.0
+2026-10-05 09:53:06,TOWER-010,HIGH_CPU_LOAD,,,,2.0
+2026-10-05 09:53:15,TOWER-009,CONGESTION,,,,3.0
+2026-10-05 09:53:23,TOWER-006,INTERFERENCE,,,,4.0
+2026-10-05 09:53:31,TOWER-002,INTERFERENCE,,,,5.0
+2026-10-05 09:53:48,TOWER-010,HIGH_CPU_LOAD,,,,7.0
+2026-10-05 09:53:57,TOWER-010,CONGESTION,,,,8.0
+2026-10-05 09:54:06,TOWER-002,HIGH_CPU_LOAD,,,,9.0
+2026-10-05 09:54:14,TOWER-009,POWER_FAILURE,,,,10.0
+2026-10-05 09:54:22,TOWER-005,HIGH_CPU_LOAD,,,,11.0
+2026-10-05 09:54:56,TOWER-002,HIGH_CPU_LOAD,,,,15.0
+2026-10-05 09:55:04,TOWER-006,CONGESTION,,,,16.0
+2026-10-05 09:55:13,TOWER-009,POWER_FAILURE,,,,17.0
+2026-10-05 09:55:38,TOWER-008,HIGH_CPU_LOAD,,,,20.0
+2026-10-05 09:56:03,TOWER-009,BACKHAUL_FAILURE,,,,23.0
+2026-10-05 09:56:12,TOWER-007,HIGH_CPU_LOAD,,,,24.0
+2026-10-05 09:56:20,TOWER-006,POWER_FAILURE,,,,25.0
+2026-10-05 09:56:46,TOWER-006,BACKHAUL_FAILURE,,,,28.0
+2026-10-05 09:57:05,TOWER-009,INTERFERENCE,,,,30.0
+2026-10-05 09:57:13,TOWER-005,INTERFERENCE,,,,31.0
+2026-10-05 09:57:22,TOWER-005,BACKHAUL_FAILURE,,,,32.0
+2026-10-05 09:57:39,TOWER-002,BACKHAUL_FAILURE,,,,34.0
+2026-10-05 09:57:56,TOWER-003,INTERFERENCE,,,,35.0
+2026-10-05 09:58:22,TOWER-001,BACKHAUL_FAILURE,,,,38.0
+2026-10-05 09:59:07,TOWER-008,CONGESTION,,,,42.0
+2026-10-05 09:59:24,TOWER-003,POWER_FAILURE,,,,44.0
+2026-10-05 09:59:32,TOWER-005,CONGESTION,,,,45.0
+2026-10-05 09:59:56,TOWER-005,HIGH_CPU_LOAD,,,,47.0
+2026-10-05 10:00:04,TOWER-008,POWER_FAILURE,,,,48.0
+2026-10-05 10:00:13,TOWER-007,POWER_FAILURE,,,,49.0
+2026-10-05 10:00:21,TOWER-001,BACKHAUL_FAILURE,,,,50.0
+2026-10-05 10:00:38,TOWER-007,CELL_OUTAGE,,,,52.0
+2026-10-05 10:00:56,TOWER-009,HIGH_CPU_LOAD,,,,54.0
+2026-10-05 10:01:21,TOWER-009,CONGESTION,,,,57.0
+2026-10-05 10:01:38,TOWER-003,HIGH_CPU_LOAD,,,,59.0
+2026-10-05 10:01:46,TOWER-007,INTERFERENCE,,,,60.0
+2026-10-05 10:01:56,TOWER-008,CELL_OUTAGE,,,,61.0
+2026-10-05 10:02:13,TOWER-003,HIGH_CPU_LOAD,,,,63.0
+2026-10-05 10:02:38,TOWER-010,INTERFERENCE,,,,66.0
+2026-10-05 10:02:46,TOWER-009,INTERFERENCE,,,,67.0
+2026-10-05 10:03:29,TOWER-004,POWER_FAILURE,,,,72.0
+2026-10-05 10:03:38,TOWER-008,HIGH_CPU_LOAD,,,,73.0
+2026-10-05 10:03:46,TOWER-009,BACKHAUL_FAILURE,,,,74.0
+2026-10-05 10:03:56,TOWER-006,CELL_OUTAGE,,,,75.0
+2026-10-05 10:04:21,TOWER-002,CELL_OUTAGE,,,,78.0
+2026-10-05 10:04:29,TOWER-007,CELL_OUTAGE,,,,79.0
+2026-10-05 10:04:38,TOWER-006,INTERFERENCE,,,,80.0
+2026-10-05 10:04:46,TOWER-003,HIGH_CPU_LOAD,,,,81.0
+2026-10-05 10:05:04,TOWER-007,INTERFERENCE,,,,83.0
+2026-10-05 10:05:21,TOWER-006,CELL_OUTAGE,,,,85.0
+2026-10-05 10:05:38,TOWER-006,INTERFERENCE,,,,87.0
+2026-10-05 10:05:56,TOWER-005,HIGH_CPU_LOAD,,,,89.0
+2026-10-05 10:06:04,TOWER-006,CONGESTION,,,,90.0
+2026-10-05 10:06:13,TOWER-006,BACKHAUL_FAILURE,,,,91.0
+2026-10-05 10:06:21,TOWER-010,CELL_OUTAGE,,,,92.0
+2026-10-05 10:06:38,TOWER-007,POWER_FAILURE,,,,94.0
+2026-10-05 10:06:46,TOWER-002,INTERFERENCE,,,,95.0
+2026-10-05 10:07:12,TOWER-004,INTERFERENCE,,,,98.0
+2026-10-05 10:07:21,TOWER-004,BACKHAUL_FAILURE,,,,99.0
+2026-10-05 10:07:29,TOWER-007,BACKHAUL_FAILURE,,,,100.0
+2026-10-05 10:07:38,TOWER-008,BACKHAUL_FAILURE,,,,101.0
+2026-10-05 10:07:56,TOWER-005,BACKHAUL_FAILURE,,,,103.0
+2026-10-05 10:08:04,TOWER-004,POWER_FAILURE,,,,104.0
+2026-10-05 10:08:38,TOWER-008,BACKHAUL_FAILURE,,,,108.0
+2026-10-05 10:08:46,TOWER-007,CONGESTION,,,,109.0
+2026-10-05 10:08:56,TOWER-001,BACKHAUL_FAILURE,,,,110.0
+2026-10-05 10:09:29,TOWER-006,CELL_OUTAGE,,,,114.0
+2026-10-05 10:09:38,TOWER-005,CONGESTION,,,,115.0
+2026-10-05 10:09:46,TOWER-003,CELL_OUTAGE,,,,116.0
+2026-10-05 10:10:13,TOWER-004,HIGH_CPU_LOAD,,,,119.0
+2026-10-05 10:10:21,TOWER-007,POWER_FAILURE,,,,120.0
+2026-10-05 10:10:29,TOWER-009,CELL_OUTAGE,,,,121.0
+2026-10-05 10:10:38,TOWER-001,CONGESTION,,,,122.0
+2026-10-05 10:10:46,TOWER-002,CONGESTION,,,,123.0
+2026-10-05 10:11:04,TOWER-007,CELL_OUTAGE,,,,125.0
+2026-10-05 10:11:13,TOWER-002,CONGESTION,,,,126.0
+2026-10-05 10:11:29,TOWER-005,CONGESTION,,,,128.0
+2026-10-05 14:06:30,TOWER-009,CELL_OUTAGE,,,,2.0
+2026-10-05 14:06:39,TOWER-002,POWER_FAILURE,,,,3.0
+2026-10-05 14:06:55,TOWER-007,HIGH_CPU_LOAD,,,,5.0
+2026-10-05 14:07:12,TOWER-007,HIGH_CPU_LOAD,,,,7.0
+2026-10-05 14:07:21,TOWER-004,INTERFERENCE,,,,8.0
+2026-10-05 14:07:46,TOWER-001,POWER_FAILURE,,,,11.0
+2026-10-05 14:07:55,TOWER-009,CONGESTION,,,,12.0
+2026-10-05 14:08:03,TOWER-010,HIGH_CPU_LOAD,,,,13.0
+2026-10-05 14:08:12,TOWER-008,CONGESTION,,,,14.0
+2026-10-05 14:08:29,TOWER-001,HIGH_CPU_LOAD,,,,16.0
+2026-10-05 14:08:37,TOWER-006,POWER_FAILURE,,,,17.0
+2026-10-05 14:08:54,TOWER-010,POWER_FAILURE,,,,19.0
+2026-10-05 14:09:02,TOWER-002,CONGESTION,,,,20.0
+2026-10-05 14:09:27,TOWER-005,HIGH_CPU_LOAD,,,,21.0
+2026-10-05 14:11:35,TOWER-002,CELL_OUTAGE,,,,22.0
+2026-10-05 14:11:56,TOWER-004,BACKHAUL_FAILURE,,,,23.0
+2026-10-05 14:12:57,TOWER-005,BACKHAUL_FAILURE,,,,26.0
+2026-10-05 14:13:18,TOWER-008,CELL_OUTAGE,,,,27.0
+2026-10-05 14:13:38,TOWER-002,BACKHAUL_FAILURE,,,,28.0
+2026-10-05 14:14:19,TOWER-006,HIGH_CPU_LOAD,,,,30.0
+2026-10-05 14:14:39,TOWER-004,CELL_OUTAGE,,,,31.0
+2026-10-05 14:15:00,TOWER-004,CELL_OUTAGE,,,,32.0
+2026-10-05 14:15:20,TOWER-009,CELL_OUTAGE,,,,33.0
+2026-10-05 14:15:41,TOWER-007,BACKHAUL_FAILURE,,,,34.0
+2026-10-05 14:17:02,TOWER-005,INTERFERENCE,,,,38.0
+2026-10-05 14:18:04,TOWER-005,CONGESTION,,,,41.0
+2026-10-05 14:18:45,TOWER-006,CELL_OUTAGE,,,,43.0
+2026-10-05 14:19:05,TOWER-005,INTERFERENCE,,,,44.0
+2026-10-05 14:19:46,TOWER-003,CONGESTION,,,,46.0
+2026-10-05 14:20:06,TOWER-005,POWER_FAILURE,,,,47.0
+2026-10-05 14:21:08,TOWER-008,INTERFERENCE,,,,50.0
+2026-10-05 14:21:28,TOWER-004,INTERFERENCE,,,,51.0
+2026-10-05 14:21:49,TOWER-007,BACKHAUL_FAILURE,,,,52.0
+2026-10-05 14:22:09,TOWER-001,CONGESTION,,,,53.0
+2026-10-05 14:22:29,TOWER-006,CONGESTION,,,,54.0
+2026-10-05 14:22:40,TOWER-006,POWER_FAILURE,,,,55.0
+2026-10-05 14:23:00,TOWER-002,CONGESTION,,,,56.0
+2026-10-05 14:23:21,TOWER-009,BACKHAUL_FAILURE,,,,57.0
+2026-10-05 14:24:23,TOWER-001,BACKHAUL_FAILURE,,,,60.0
+2026-10-05 14:25:03,TOWER-005,CELL_OUTAGE,,,,62.0
+2026-10-05 14:25:24,TOWER-005,HIGH_CPU_LOAD,,,,63.0
+2026-10-05 14:25:44,TOWER-009,BACKHAUL_FAILURE,,,,64.0
+2026-10-05 14:26:25,TOWER-008,HIGH_CPU_LOAD,,,,66.0
+2026-10-05 14:26:46,TOWER-006,BACKHAUL_FAILURE,,,,67.0
+2026-10-05 14:27:06,TOWER-003,BACKHAUL_FAILURE,,,,68.0
+2026-10-05 14:27:27,TOWER-004,INTERFERENCE,,,,69.0
+2026-10-05 14:27:47,TOWER-009,HIGH_CPU_LOAD,,,,70.0
+2026-10-05 14:28:48,TOWER-003,CELL_OUTAGE,,,,73.0
+2026-10-05 14:29:09,TOWER-003,BACKHAUL_FAILURE,,,,74.0
+2026-10-05 14:29:29,TOWER-008,INTERFERENCE,,,,75.0
+2026-10-05 14:29:50,TOWER-006,HIGH_CPU_LOAD,,,,76.0
+2026-10-05 14:30:11,TOWER-005,POWER_FAILURE,,,,77.0
+2026-10-05 14:30:31,TOWER-008,BACKHAUL_FAILURE,,,,78.0
+2026-10-05 14:31:33,TOWER-009,INTERFERENCE,,,,81.0
+2026-10-05 14:31:54,TOWER-007,CELL_OUTAGE,,,,82.0
+2026-10-05 14:32:15,TOWER-004,POWER_FAILURE,,,,83.0
+2026-10-05 14:32:56,TOWER-005,CONGESTION,,,,85.0
+2026-10-05 14:33:37,TOWER-003,INTERFERENCE,,,,87.0
+2026-10-05 14:33:58,TOWER-004,CONGESTION,,,,88.0
+2026-10-05 14:34:19,TOWER-005,POWER_FAILURE,,,,89.0
+2026-10-05 14:34:39,TOWER-005,CELL_OUTAGE,,,,90.0
+2026-10-05 14:35:00,TOWER-006,POWER_FAILURE,,,,91.0
+2026-10-05 14:35:42,TOWER-003,CONGESTION,,,,93.0
+2026-10-05 14:36:23,TOWER-009,CONGESTION,,,,95.0
+2026-10-05 14:37:04,TOWER-006,CONGESTION,,,,97.0
+2026-10-05 14:37:46,TOWER-006,HIGH_CPU_LOAD,,,,99.0
+2026-10-05 14:38:07,TOWER-006,BACKHAUL_FAILURE,,,,100.0
+2026-10-05 14:38:48,TOWER-009,INTERFERENCE,,,,102.0
+2026-10-05 14:39:09,TOWER-002,CELL_OUTAGE,,,,103.0
+2026-10-05 14:39:29,TOWER-001,POWER_FAILURE,,,,104.0
+2026-10-05 14:40:11,TOWER-001,POWER_FAILURE,,,,106.0
+2026-10-05 14:41:13,TOWER-004,CONGESTION,,,,109.0
+2026-10-05 14:41:54,TOWER-003,POWER_FAILURE,,,,111.0
+2026-10-05 14:42:36,TOWER-010,INTERFERENCE,,,,113.0
+2026-10-05 14:42:56,TOWER-009,CONGESTION,,,,114.0
+2026-10-05 14:43:17,TOWER-003,INTERFERENCE,,,,115.0
+2026-10-05 14:43:38,TOWER-001,HIGH_CPU_LOAD,,,,116.0
+2026-10-05 14:44:19,TOWER-005,INTERFERENCE,,,,118.0
+2026-10-05 14:45:01,TOWER-009,BACKHAUL_FAILURE,,,,120.0
+2026-10-05 14:45:42,TOWER-004,CELL_OUTAGE,,,,122.0
+2026-10-05 14:46:03,TOWER-003,BACKHAUL_FAILURE,,,,123.0
+2026-10-05 14:46:24,TOWER-008,POWER_FAILURE,,,,124.0
+2026-10-05 14:47:05,TOWER-010,INTERFERENCE,,,,126.0
+2026-10-05 14:47:26,TOWER-003,CELL_OUTAGE,,,,127.0
+2026-10-05 16:28:17,TOWER-010,BACKHAUL_FAILURE,,,,1.0
+2026-10-05 16:28:37,TOWER-010,CELL_OUTAGE,,,,2.0
+2026-10-05 16:28:58,TOWER-007,POWER_FAILURE,,,,3.0
+2026-10-05 16:29:40,TOWER-010,INTERFERENCE,,,,5.0
+2026-10-05 16:30:02,TOWER-007,POWER_FAILURE,,,,6.0
+2026-10-05 21:20:40,TOWER-001,HIGH_CPU_LOAD,,,,2.0
+2026-10-05 21:21:00,TOWER-002,POWER_FAILURE,,,,3.0
+2026-10-05 21:21:21,TOWER-002,INTERFERENCE,,,,4.0
+2026-10-05 21:21:41,TOWER-009,POWER_FAILURE,,,,5.0
+2026-10-05 21:22:02,TOWER-004,BACKHAUL_FAILURE,,,,6.0
+2026-10-05 21:22:23,TOWER-003,CONGESTION,,,,7.0
+2026-10-05 21:22:44,TOWER-003,BACKHAUL_FAILURE,,,,8.0

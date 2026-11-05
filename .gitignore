@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Generated data
+data/processed/
+embeddings/
+vector_db/
+chroma_db/
+qdrant_storage/
+
+# Models
+models/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# OS
+.DS_Store
+Thumbs.db

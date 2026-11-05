@@ -1,0 +1,63 @@
+# Core
+numpy
+pandas
+pyyaml
+python-dotenv
+
+# Data Processing
+datasets
+pypdf
+openpyxl
+
+# RAG Framework
+langchain
+langchain-community
+llama-index
+
+# Embeddings
+sentence-transformers==6.0.1
+transformers==5.17.0
+torch
+
+# Vector Database
+faiss-cpu
+
+# (Optional if using Qdrant later)
+qdrant-client
+
+# Reranking
+flagembedding
+
+# LLM
+accelerate
+bitsandbytes
+
+# API
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+plotly
+folium
+streamlit-folium
+
+# Simulation
+simpy
+
+# Machine Learning / Anomaly Detection
+scikit-learn
+scipy
+
+# Logging & Monitoring
+loguru
+
+# Testing
+pytest
+
+# Utilities
+tqdm
+requests
+
+#Hugging Face
+huggingface-hub==1.30.0
